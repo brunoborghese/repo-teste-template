@@ -1,0 +1,11 @@
+{
+  "name": "repo-teste-template",
+  "version": "1.0.0",
+  "description": "Repo para teste de criação a partir de template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
